@@ -4,11 +4,13 @@ Everyone can contribute here!
 
 ##Getting Started
 > How to create your first analyzer
+
 * [Use Roslyn to Write a Live Code Analyzer for Your API] (https://msdn.microsoft.com/en-us/magazine/dn879356.aspx) - MSDN Magazine by Alex Turner
 * [Adding a Code Fix to Your Roslyn Analyzer] (https://msdn.microsoft.com/en-us/magazine/dn904670.aspx) - MSDN Magazine by Alex Turner
 
 ##Analyzers
 > List of popular analyzers
+
 * [Code Cracker] (https://github.com/code-cracker/code-cracker) - An analyzer library for C# and VB that uses Roslyn to produce refactorings, code analysis, and other niceties
 * [StyleCopAnalyzers] (https://github.com/DotNetAnalyzers/StyleCopAnalyzers) - An implementation of StyleCop rules using the .NET Compiler Platform
 * [RoslynClrHeapAllocationAnalyzer] (https://github.com/code-cracker/code-cracker) - Roslyn based C# heap allocation diagnostic analyzer that can detect explicit and many implicit allocations like boxing, display classes a.k.a closures, implicit delegate creations, etc
