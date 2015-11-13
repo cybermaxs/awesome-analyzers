@@ -21,3 +21,8 @@ How To Write a C# Analyzer and Code Fix](https://github.com/dotnet/roslyn/wiki/H
 * [Wintellect.Analyzers] (https://github.com/Wintellect/Wintellect.Analyzers) - .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes written by Wintellect
 * [roslyn-analyzers] (https://github.com/dotnet/roslyn-analyzers) - Several Roslyn diagnostic analyzers developed and maintenaied by the Roslyn team. Contains : AsyncPackage, Desktop.Analyzers, MetaCompilation, Microsoft.AnalyzerPowerPack, Microsoft.CodeAnalysis.Analyzers, Microsoft.Net.RoslynDiagnostics, System.Runtime.Analyzers, System.Runtime.InteropServices.Analyzers
 * [sonarlint-vs] (https://github.com/SonarSource/sonarlint-vs) - SonarLint is a Visual Studio 2015 extension that provides on-the-fly feedback to developers on new bugs and quality issues injected into C# code.
+
+##Tools
+> Free and online tools
+
+* [Roslyn Quoter] (https://github.com/KirillOsenkov/RoslynQuoter) Roslyn tool that for a given C# program shows syntax tree API calls to construct its syntax tree
