@@ -26,3 +26,7 @@ How To Write a C# Analyzer and Code Fix](https://github.com/dotnet/roslyn/wiki/H
 > Free and online tools
 
 * [Roslyn Quoter] (https://github.com/KirillOsenkov/RoslynQuoter) Roslyn tool that for a given C# program shows syntax tree API calls to construct its syntax tree
+* 
+##Blogs
+> Blogs talking about Roslyn analyzers
+* [Fun with Roslyn] (https://johnkoerner.com/)
