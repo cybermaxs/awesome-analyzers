@@ -23,6 +23,7 @@ Everyone can contribute here!
 * [Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn.
 * [.NET Analyzers GitHub organization](https://github.com/DotNetAnalyzers) - An organization for the development of analyzers (diagnostics, code fixes, and refactorings) using the .NET Compiler Platform.
 * [Public API analyzer](https://github.com/DotNetAnalyzers/PublicApiAnalyzer) - Helps tracking reusable code public API exposure, aids in proper encapsulation.
+* [AsyncFixer](http://www.learnasync.net/) - Advanced Async/Await Diagnostics and CodeFixes for C#.
 
 ## Tools
 > Free and online tools
