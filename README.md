@@ -24,6 +24,7 @@ Everyone can contribute here!
 * [.NET Analyzers GitHub organization](https://github.com/DotNetAnalyzers) - An organization for the development of analyzers (diagnostics, code fixes, and refactorings) using the .NET Compiler Platform.
 * [Public API analyzer](https://github.com/DotNetAnalyzers/PublicApiAnalyzer) - Helps tracking reusable code public API exposure, aids in proper encapsulation.
 * [AsyncFixer](http://www.learnasync.net/) - Advanced Async/Await Diagnostics and CodeFixes for C#.
+* [ErrorProne.NET](https://github.com/SergeyTeplyakov/ErrorProne.NET) - ErrorProne.NET is a set of Roslyn-based analyzers that will help you to write correct code. The idea is similar to Google's error-prone but focusing on correctness (and, maybe, performance) of C# programs.
 
 ## Tools
 > Free and online tools
