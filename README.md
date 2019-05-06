@@ -25,6 +25,7 @@ Everyone can contribute here!
 * [Public API analyzer](https://github.com/DotNetAnalyzers/PublicApiAnalyzer) - Helps tracking reusable code public API exposure, aids in proper encapsulation.
 * [AsyncFixer](http://www.learnasync.net/) - Advanced Async/Await Diagnostics and CodeFixes for C#.
 * [ErrorProne.NET](https://github.com/SergeyTeplyakov/ErrorProne.NET) - ErrorProne.NET is a set of Roslyn-based analyzers that will help you to write correct code. The idea is similar to Google's error-prone but focusing on correctness (and, maybe, performance) of C# programs.
+* [SecurityCodeScan](https://github.com/security-code-scan/security-code-scan) - Vulnerability Patterns Detector for C# and VB.NET.
 
 ## Tools
 > Free and online tools
