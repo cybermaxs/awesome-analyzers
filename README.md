@@ -26,6 +26,7 @@ Everyone can contribute here!
 * [AsyncFixer](http://www.learnasync.net/) - Advanced Async/Await Diagnostics and CodeFixes for C#.
 * [ErrorProne.NET](https://github.com/SergeyTeplyakov/ErrorProne.NET) - ErrorProne.NET is a set of Roslyn-based analyzers that will help you to write correct code. The idea is similar to Google's error-prone but focusing on correctness (and, maybe, performance) of C# programs.
 * [SecurityCodeScan](https://github.com/security-code-scan/security-code-scan) - Vulnerability Patterns Detector for C# and VB.NET.
+* [MappingGenerator](https://github.com/cezarypiatek/MappingGenerator) - 🔄 "AutoMapper" like, Roslyn based, code fix provider that allows to generate mapping code in design time.
 
 ## Tools
 > Free and online tools
