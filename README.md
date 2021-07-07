@@ -30,6 +30,7 @@ Everyone can contribute here!
 * [Puma Scan](https://www.pumascan.com) - Security analyzer that provides real time, continuous source code analysis for C# applications.
 * [SmartAnalyzers.ExceptionAnalyzer](https://github.com/smartanalyzers/ExceptionAnalyzer) - A set of Roslyn analyzers related to exceptions usages.
 * [SmartAnalyzers.MultithreadingAnalyzer](https://github.com/smartanalyzers/MultithreadingAnalyzer) - A set of Roslyn analyzers related to multithreading
+* [Meziantou.Analyzer](https://github.com/meziantou/Meziantou.Analyzer) - A Roslyn analyzer to enforce some good practices in C# in terms of design, usage, security, performance, and style.
 
 
 ## Tools
