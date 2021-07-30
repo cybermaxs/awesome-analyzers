@@ -29,7 +29,22 @@ Everyone can contribute here!
 * [Puma Scan](https://www.pumascan.com) - Security analyzer that provides real time, continuous source code analysis for C# applications.
 * [SmartAnalyzers.ExceptionAnalyzer](https://github.com/smartanalyzers/ExceptionAnalyzer) - A set of Roslyn analyzers related to exceptions usages.
 * [SmartAnalyzers.MultithreadingAnalyzer](https://github.com/smartanalyzers/MultithreadingAnalyzer) - A set of Roslyn analyzers related to multithreading
-* [Meziantou.Analyzer](https://github.com/meziantou/Meziantou.Analyzer) - A Roslyn analyzer to enforce some good practices in C# in terms of design, usage, security, performance, and style.
+* [AngleSharp](https://www.nuget.org/packages/AngleSharp) - AngleSharp is the ultimate angle brackets parser library. It parses HTML5, CSS3, and XML to construct a DOM based on the official W3C specification.
+* [AspNetCoreAnalyzers](https://www.nuget.org/packages/AspNetCoreAnalyzers) - Analyzers for Microsoft.AspNetCore.
+* [Moq.Analyzers](https://www.nuget.org/packages/Moq.Analyzers/) - Roslyn analyzer that helps to write unit tests using Moq mocking library by highlighting typical errors and suggesting quick fixes. Port of Resharper extension to Roslyn. Find the full list of detected issues at project GitHub page.
+* [Roslynator.Testing.CSharp.Xunit](https://www.nuget.org/packages/Roslynator.Testing.CSharp.Xunit/) - Testing framework for Roslyn analyzers, refactorings and code fixes.
+* [xunit.analyzers](https://www.nuget.org/packages/xunit.analyzers/) - Code Analyzers for projects using xUnit.net that help find and fix frequent issues when writing tests.
+* [ZeroFormatter.Analyzer](https://www.nuget.org/packages/ZeroFormatter.Analyzer/) - Analyzer of ZeroFormatter, verify rule for [ZeroFormattable] classes.
+* [Asyncify](https://www.nuget.org/packages/Asyncify/) - Asyncify-CSharp is an analyzer and codefix that allows you to quickly update your code to use the Task Asynchronous Programming model. This model, introduced in C# 5, adds an intuitive way of handling asynchronous calls within C#. The analyzer allows large codebases to be easily modified to use the TAP model by finding violations and applying fixes up the call tree.
+* [CSharpGuidelinesAnalyzer](https://www.nuget.org/packages/CSharpGuidelinesAnalyzer/) - Reports diagnostics for C# coding guidelines that are not already covered by Resharper. Requires Visual Studio 2017 Update 5 or higher.
+* [DotNetAnalyzers.DocumentationAnalyzers](https://www.nuget.org/packages/DotNetAnalyzers.DocumentationAnalyzers) - An implementation of .NET documentation rules using Roslyn analyzers and code fixes.
+* [Gu.Analyzers](https://www.nuget.org/packages/Gu.Analyzers/) - Roslyn analyzers and fixes.
+* [IDisposableAnalyzers](https://www.nuget.org/packages/IDisposableAnalyzers/) - Analyzers and fixes for IDisposable.
+* [Mews.Analyzers](https://www.nuget.org/packages/Mews.Analyzers/) - Roslyn based code analyzers used by Mews.
+* [Meziantou.Analyzer](https://www.nuget.org/packages/Meziantou.Analyzer/) - A Roslyn analyzer to enforce some good practices in C#.
+* [Microsoft.CodeAnalysis.Analyzers](https://www.nuget.org/packages/Microsoft.CodeAnalysis.Analyzers/) - Analyzers for consumers of Microsoft.CodeAnalysis NuGet package, i.e. extensions and applications built on top of .NET Compiler Platform (Roslyn). This package is included as a development dependency of Microsoft.CodeAnalysis NuGet package and does not need to be installed separately if you are referencing Microsoft.CodeAnalysis NuGet package.
+* [Microsoft.VisualStudio.Threading.Analyzers](https://www.nuget.org/packages/Microsoft.VisualStudio.Threading.Analyzers) - Static code analyzer to detect common mistakes or potential issues regarding threading and async coding.
+* [VSDiagnostics](https://www.nuget.org/packages/VSDiagnostics/) - A collection of code-quality analyzers based on the new Roslyn platform. This project aims to ensure code-quality as you type it in your editor rather than having to do this as a separate build-step.
 
 
 ## Tools
