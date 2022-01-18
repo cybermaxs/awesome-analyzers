@@ -47,6 +47,8 @@ Everyone can contribute here!
 * [Microsoft.CodeAnalysis.Analyzers](https://www.nuget.org/packages/Microsoft.CodeAnalysis.Analyzers/) - Analyzers for consumers of Microsoft.CodeAnalysis NuGet package, i.e. extensions and applications built on top of .NET Compiler Platform (Roslyn). This package is included as a development dependency of Microsoft.CodeAnalysis NuGet package and does not need to be installed separately if you are referencing Microsoft.CodeAnalysis NuGet package.
 * [Microsoft.VisualStudio.Threading.Analyzers](https://www.nuget.org/packages/Microsoft.VisualStudio.Threading.Analyzers) - Static code analyzer to detect common mistakes or potential issues regarding threading and async coding.
 * [VSDiagnostics](https://www.nuget.org/packages/VSDiagnostics/) - A collection of code-quality analyzers based on the new Roslyn platform. This project aims to ensure code-quality as you type it in your editor rather than having to do this as a separate build-step.
+* [Blowin.Required](https://github.com/blowin/Blowin.Required/) - Implementation of proposal 'Required Properties' https://github.com/dotnet/csharplang/issues/3630.
+* [BlowinCleanCode](https://github.com/blowin/BlowinCleanCode/) - BlowinCleanCode is a Roslyn-based C# code analyzer that aims to provide a set of rules that helps to simplify code and make it cleaner.
 
 ## Tools
 > Free and online tools
