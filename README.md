@@ -8,6 +8,7 @@ Everyone can contribute here!
 * [Use Roslyn to Write a Live Code Analyzer for Your API](https://msdn.microsoft.com/en-us/magazine/dn879356.aspx) - MSDN Magazine by Alex Turner
 * [Adding a Code Fix to Your Roslyn Analyzer](https://msdn.microsoft.com/en-us/magazine/dn904670.aspx) - MSDN Magazine by Alex Turner
 * [How To Write a C# Analyzer and Code Fix](https://github.com/dotnet/roslyn/wiki/How-To-Write-a-C%23-Analyzer-and-Code-Fix) - Roslyn wiki
+* [ASP.NET Core middleware with Roslyn Analyzers](https://blog.elmah.io/asp-net-core-middleware-with-roslyn-analyzers-part-1/) - elmah.io blog by Thomas Ardal
 
 ## Analyzers
 > List of popular analyzers
