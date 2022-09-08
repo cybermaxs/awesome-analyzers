@@ -43,7 +43,7 @@ Everyone can contribute here!
 * [Meziantou.Analyzer](https://www.nuget.org/packages/Meziantou.Analyzer/) - A Roslyn analyzer to enforce some good practices in C#.
 * [Microsoft.CodeAnalysis.Analyzers](https://www.nuget.org/packages/Microsoft.CodeAnalysis.Analyzers/) - Analyzers for consumers of Microsoft.CodeAnalysis NuGet package, i.e. extensions and applications built on top of .NET Compiler Platform (Roslyn). This package is included as a development dependency of Microsoft.CodeAnalysis NuGet package and does not need to be installed separately if you are referencing Microsoft.CodeAnalysis NuGet package.
 * [Microsoft.VisualStudio.Threading.Analyzers](https://www.nuget.org/packages/Microsoft.VisualStudio.Threading.Analyzers) - Static code analyzer to detect common mistakes or potential issues regarding threading and async coding.
-* [VSDiagnostics](https://www.nuget.org/packages/VSDiagnostics/) - A collection of code-quality analyzers based on the new Roslyn platform. This project aims to ensure code-quality as you type it in your editor rather than having to do this as a separate build-step.
+* [SharpSource](https://github.com/Vannevelj/SharpSource) - A collection of analyzers that aim to surface defects at compile that would otherwise go unnoticed until it's too late.
 * [Blowin.Required](https://github.com/blowin/Blowin.Required/) - Implementation of proposal 'Required Properties' https://github.com/dotnet/csharplang/issues/3630.
 * [BlowinCleanCode](https://github.com/blowin/BlowinCleanCode/) - BlowinCleanCode is a Roslyn-based C# code analyzer that aims to provide a set of rules that helps to simplify code and make it cleaner.
 * [ClosedTypeHierarchyDiagnosticSuppressor](https://github.com/shuebner/ClosedTypeHierarchyDiagnosticSuppressor) - Roslyn-based C# diagnostic suppressor that enhances the `switch` exhaustiveness checks for the closed type hierarchy pattern aka discriminated unions
@@ -55,6 +55,7 @@ Everyone can contribute here!
 * [CSharpEssentials](https://github.com/DustinCampbell/CSharpEssentials) - C# Essentials is a collection of Roslyn diagnostic analyzers, code fixes and refactorings that make it easy to work with C# 6 language features.
 * [RefactoringEssentials](https://github.com/icsharpcode/RefactoringEssentials/) - Free Visual Studio 2015 extension for C# and VB.NET refactorings, including code best practice analyzers to improve your projects.
 * [Public API analyzer](https://github.com/DotNetAnalyzers/PublicApiAnalyzer) (Superseded by [Microsoft.CodeAnalysis.PublicApiAnalyzers](https://github.com/dotnet/roslyn-analyzers/blob/main/src/PublicApiAnalyzers/Microsoft.CodeAnalysis.PublicApiAnalyzers.md)) - Helps tracking reusable code public API exposure, aids in proper encapsulation.
+* [VSDiagnostics](https://www.nuget.org/packages/VSDiagnostics/) - A collection of code-quality analyzers based on the new Roslyn platform. This project aims to ensure code-quality as you type it in your editor rather than having to do this as a separate build-step.
 
 ## Tools
 > Free and online tools
