@@ -18,6 +18,7 @@ Everyone can contribute here!
 * [Wintellect.Analyzers](https://github.com/Wintellect/Wintellect.Analyzers) - .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes written by Wintellect
 * [roslyn-analyzers](https://github.com/dotnet/roslyn-analyzers) - Several Roslyn diagnostic analyzers developed and maintained by the Roslyn team. Contains : AsyncPackage, Desktop.Analyzers, MetaCompilation, Microsoft.AnalyzerPowerPack, Microsoft.CodeAnalysis.Analyzers, Microsoft.Net.RoslynDiagnostics, System.Runtime.Analyzers, System.Runtime.InteropServices.Analyzers
 * [sonarlint-vs](https://github.com/SonarSource/sonarlint-visualstudio) - SonarLint is a Visual Studio 2015 extension that provides on-the-fly feedback to developers on new bugs and quality issues injected into C# code.
+  * [sonar-dotnet](https://github.com/SonarSource/sonar-dotnet) - the Sonar Roslyn analyzers which are powering SonarLint. They are also published as [SonarAnalyzer.CSharp](https://www.nuget.org/packages/SonarAnalyzer.CSharp/) NuGet package.
 * [Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn.
 * [.NET Analyzers GitHub organization](https://github.com/DotNetAnalyzers) - An organization for the development of analyzers (diagnostics, code fixes, and refactorings) using the .NET Compiler Platform.
 * [AsyncFixer](http://www.asyncfixer.com/) - Advanced Async/Await Diagnostics and CodeFixes for C#.
