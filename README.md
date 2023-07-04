@@ -37,6 +37,7 @@ Resources for creating your first analyzer:
 * [SharpSource](https://github.com/Vannevelj/SharpSource) - A collection of analyzers that aim to surface defects at compile that would otherwise go unnoticed until it's too late.
 * [Blowin.Required](https://github.com/blowin/Blowin.Required/) - Implementation of proposal 'Required Properties' https://github.com/dotnet/csharplang/issues/3630.
 * [BlowinCleanCode](https://github.com/blowin/BlowinCleanCode/) - BlowinCleanCode is a Roslyn-based C# code analyzer that aims to provide a set of rules that helps to simplify code and make it cleaner.
+* [Selectorlyzer.Analyzers](https://github.com/rlgnak/Selectorlyzer.Analyzers) - Selectorlyzer.Analyzers is a highly customizable Roslyn Analyzer designed to empower developers with the ability to create project-specific analyzers using a CSS selector-like syntax.
 
 ### Security
 
