@@ -64,6 +64,7 @@ Resources for creating your first analyzer:
 * [ZeroFormatter.Analyzer](https://www.nuget.org/packages/ZeroFormatter.Analyzer/) - Analyzer of ZeroFormatter, verify rule for [ZeroFormattable] classes.
 * [ClosedTypeHierarchyDiagnosticSuppressor](https://github.com/shuebner/ClosedTypeHierarchyDiagnosticSuppressor) - Roslyn-based C# diagnostic suppressor that enhances the `switch` exhaustiveness checks for the closed type hierarchy pattern aka discriminated unions
 * [OneOfDiagnosticSuppressor](https://github.com/shuebner/OneOfDiagnosticSuppressor) - Roslyn-based C# diagnostic suppressor that enhances the `switch` exhaustiveness checks of `OneOf<...>.Value` from the [OneOf library](https://github.com/mcintyre321/OneOf) and thus enables effective use of native `switch` as an alternative to the library's own `Switch` and `Match` methods
+* [System.IO.Abstractions.Analyzers](https://github.com/TestableIO/System.IO.Abstractions.Analyzers) - Analyzer for helping using package [System.IO.Abstractions](https://github.com/Testably/Testably.Abstractions)
 
 ### Miscellaneous
 
