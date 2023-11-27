@@ -38,6 +38,7 @@ Resources for creating your first analyzer:
 * [Blowin.Required](https://github.com/blowin/Blowin.Required/) - Implementation of proposal 'Required Properties' https://github.com/dotnet/csharplang/issues/3630.
 * [BlowinCleanCode](https://github.com/blowin/BlowinCleanCode/) - BlowinCleanCode is a Roslyn-based C# code analyzer that aims to provide a set of rules that helps to simplify code and make it cleaner.
 * [Selectorlyzer.Analyzers](https://github.com/rlgnak/Selectorlyzer.Analyzers) - Selectorlyzer.Analyzers is a highly customizable Roslyn Analyzer designed to empower developers with the ability to create project-specific analyzers using a CSS selector-like syntax.
+* [Menees.Analyzers](https://github.com/menees/Analyzers) - Roslyn-based C# code analyzers. Various analyzers ported from StyleCop+.
 
 ### Security
 
@@ -65,6 +66,7 @@ Resources for creating your first analyzer:
 * [ClosedTypeHierarchyDiagnosticSuppressor](https://github.com/shuebner/ClosedTypeHierarchyDiagnosticSuppressor) - Roslyn-based C# diagnostic suppressor that enhances the `switch` exhaustiveness checks for the closed type hierarchy pattern aka discriminated unions
 * [OneOfDiagnosticSuppressor](https://github.com/shuebner/OneOfDiagnosticSuppressor) - Roslyn-based C# diagnostic suppressor that enhances the `switch` exhaustiveness checks of `OneOf<...>.Value` from the [OneOf library](https://github.com/mcintyre321/OneOf) and thus enables effective use of native `switch` as an alternative to the library's own `Switch` and `Match` methods
 * [NSubstitute.Analyzers](https://github.com/nsubstitute/NSubstitute) - Provides diagnostic analyzers to warn about incorrect usage of NSubstitute in C# or VB
+* [System.IO.Abstractions.Analyzers](https://github.com/TestableIO/System.IO.Abstractions.Analyzers) - Analyzer for helping using package [System.IO.Abstractions](https://github.com/Testably/Testably.Abstractions)
 
 ### Miscellaneous
 
