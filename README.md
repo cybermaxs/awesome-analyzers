@@ -40,6 +40,7 @@ Resources for creating your first analyzer:
 * [Selectorlyzer.Analyzers](https://github.com/rlgnak/Selectorlyzer.Analyzers) - Selectorlyzer.Analyzers is a highly customizable Roslyn Analyzer designed to empower developers with the ability to create project-specific analyzers using a CSS selector-like syntax.
 * [Menees.Analyzers](https://github.com/menees/Analyzers) - Roslyn-based C# code analyzers. Various analyzers ported from StyleCop+.
 
+
 ### Security
 
 * [SecurityCodeScan](https://github.com/security-code-scan/security-code-scan) - Vulnerability Patterns Detector for C# and VB.NET.
@@ -56,6 +57,7 @@ Resources for creating your first analyzer:
 * [SmartAnalyzers.MultithreadingAnalyzer](https://github.com/smartanalyzers/MultithreadingAnalyzer) - A set of Roslyn analyzers related to multithreading
 * [Asyncify](https://www.nuget.org/packages/Asyncify/) - Asyncify-CSharp is an analyzer and codefix that allows you to quickly update your code to use the Task Asynchronous Programming model. This model, introduced in C# 5, adds an intuitive way of handling asynchronous calls within C#. The analyzer allows large codebases to be easily modified to use the TAP model by finding violations and applying fixes up the call tree.
 * [Microsoft.VisualStudio.Threading.Analyzers](https://www.nuget.org/packages/Microsoft.VisualStudio.Threading.Analyzers) - Static code analyzer to detect common mistakes or potential issues regarding threading and async coding.
+* [DbContextThreadSafety.Analyzer](https://github.com/Maxofpower/DbContextThreadSafetyAnalyzer) - This analyzer is especially useful when working with DbContext in multi-threaded or parallel scenarios, Raising warning on misusing DbContext.
 
 ### 3rd party libraries
 
