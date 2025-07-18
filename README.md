@@ -59,6 +59,10 @@ Resources for creating your first analyzer:
 * [Microsoft.VisualStudio.Threading.Analyzers](https://www.nuget.org/packages/Microsoft.VisualStudio.Threading.Analyzers) - Static code analyzer to detect common mistakes or potential issues regarding threading and async coding.
 * [DbContextThreadSafety.Analyzer](https://github.com/Maxofpower/DbContextThreadSafetyAnalyzer) - This analyzer is especially useful when working with DbContext in multi-threaded or parallel scenarios, Raising warning on misusing DbContext.
 
+### Project file
+
+* [.NET project file analyzers](https://github.com/dotnet-project-file-analyzers/dotnet-project-file-analyzers) - Report issues on .NET project files.
+
 ### 3rd party libraries
 
 * [Moq.Analyzers](https://www.nuget.org/packages/Moq.Analyzers/) - Roslyn analyzer that helps to write unit tests using Moq mocking library by highlighting typical errors and suggesting quick fixes. Port of Resharper extension to Roslyn. Find the full list of detected issues at project GitHub page.
