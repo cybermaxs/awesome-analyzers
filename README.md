@@ -53,7 +53,7 @@ Resources for creating your first analyzer:
 
 ### Async/multithreading
 
-* [AsyncFixer](http://www.asyncfixer.com/) - Advanced Async/Await Diagnostics and CodeFixes for C#.
+* [AsyncFixer](https://github.com/semihokur/AsyncFixer) - Advanced Async/Await Diagnostics and CodeFixes for C#.
 * [SmartAnalyzers.MultithreadingAnalyzer](https://github.com/smartanalyzers/MultithreadingAnalyzer) - A set of Roslyn analyzers related to multithreading
 * [Asyncify](https://www.nuget.org/packages/Asyncify/) - Asyncify-CSharp is an analyzer and codefix that allows you to quickly update your code to use the Task Asynchronous Programming model. This model, introduced in C# 5, adds an intuitive way of handling asynchronous calls within C#. The analyzer allows large codebases to be easily modified to use the TAP model by finding violations and applying fixes up the call tree.
 * [Microsoft.VisualStudio.Threading.Analyzers](https://www.nuget.org/packages/Microsoft.VisualStudio.Threading.Analyzers) - Static code analyzer to detect common mistakes or potential issues regarding threading and async coding.
