@@ -49,7 +49,6 @@ Resources for creating your first analyzer:
 
 ### ASP.NET Core and web
 
-* [AngleSharp](https://www.nuget.org/packages/AngleSharp) - AngleSharp is the ultimate angle brackets parser library. It parses HTML5, CSS3, and XML to construct a DOM based on the official W3C specification.
 * [AspNetCoreAnalyzers](https://www.nuget.org/packages/AspNetCoreAnalyzers) - Analyzers for Microsoft.AspNetCore.
 
 ### Async/multithreading
