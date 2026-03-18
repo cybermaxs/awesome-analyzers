@@ -39,6 +39,7 @@ Resources for creating your first analyzer:
 * [BlowinCleanCode](https://github.com/blowin/BlowinCleanCode/) - BlowinCleanCode is a Roslyn-based C# code analyzer that aims to provide a set of rules that helps to simplify code and make it cleaner.
 * [Selectorlyzer.Analyzers](https://github.com/rlgnak/Selectorlyzer.Analyzers) - Selectorlyzer.Analyzers is a highly customizable Roslyn Analyzer designed to empower developers with the ability to create project-specific analyzers using a CSS selector-like syntax.
 * [Menees.Analyzers](https://github.com/menees/Analyzers) - Roslyn-based C# code analyzers. Various analyzers ported from StyleCop+.
+* [Exceptionator](https://github.com/elmahio/Exceptionator) - Roslyn analyzers for improving exception handling in C# code.
 
 
 ### Security
