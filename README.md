@@ -40,7 +40,11 @@ Resources for creating your first analyzer:
 * [Selectorlyzer.Analyzers](https://github.com/rlgnak/Selectorlyzer.Analyzers) - Selectorlyzer.Analyzers is a highly customizable Roslyn Analyzer designed to empower developers with the ability to create project-specific analyzers using a CSS selector-like syntax.
 * [Menees.Analyzers](https://github.com/menees/Analyzers) - Roslyn-based C# code analyzers. Various analyzers ported from StyleCop+.
 * [Exceptionator](https://github.com/elmahio/Exceptionator) - Roslyn analyzers for improving exception handling in C# code.
-
+* [Philips.CodeAnalysis](https://github.com/philips-software/roslyn-analyzers) - Philips Software Roslyn Diagnostic Analyzers. Contains:
+  * `Philips.CodeAnalysis.DuplicateCodeAnalyzer`
+  * `Philips.CodeAnalysis.MaintainabilityAnalyzers`
+  * `Philips.CodeAnalysis.MoqAnalyzers`
+  * `Philips.CodeAnalysis.SecurityAnalyzers`
 
 ### Security
 
