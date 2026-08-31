@@ -13,6 +13,16 @@ Resources for creating your first analyzer:
 * [ASP.NET Core middleware with Roslyn Analyzers](https://blog.elmah.io/asp-net-core-middleware-with-roslyn-analyzers-part-1/) - elmah.io blog by Thomas Ardal
 * [.NET Analyzers GitHub organization](https://github.com/DotNetAnalyzers) - An organization for the development of analyzers (diagnostics, code fixes, and refactorings) using the .NET Compiler Platform.
 
+## Central Package Management
+
+If you're using [Central Package Management](https://learn.microsoft.com/en-us/nuget/consume-packages/Central-Package-Management), you can add most of the analyzers presented here as a [`GlobalPackageReference`](https://learn.microsoft.com/en-us/nuget/consume-packages/Central-Package-Management#global-package-references) in your `Directory.Packages.props` file. This applies the analyzer to all projects in the repository.
+
+```xml
+  <ItemGroup>
+    <GlobalPackageReference Include="{AnalyzerNuGet}" Version="{LatestVersion}" />
+  </ItemGroup>
+```
+
 ## Popular Analyzers
 
 ### Analyzer collections
@@ -60,6 +70,7 @@ Resources for creating your first analyzer:
 ### Project file
 
 * [.NET project file analyzers](https://github.com/dotnet-project-file-analyzers/dotnet-project-file-analyzers) - Report issues on .NET project files.
+* [Reference Trimmer](https://github.com/dfederm/ReferenceTrimmer) - Easily identify which dependencies can be removed from a .NET project
 
 ### 3rd party libraries
 
