@@ -49,6 +49,7 @@ If you're using [Central Package Management](https://learn.microsoft.com/en-us/n
   * `Philips.CodeAnalysis.MoqAnalyzers`
   * `Philips.CodeAnalysis.SecurityAnalyzers`
 * [AgodaAnalyzers](https://github.com/agoda-com/AgodaAnalyzers) - A set of opinionated Roslyn analyzers for C#.
+* [CSharp.Refactor](https://github.com/Thorium/csharp-refactor) - 120+ Roslyn analyzers and code fixes for functional, intent-revealing C#, plus a dotnet tool that applies them in bulk with build verification.
 
 ### Security
 
