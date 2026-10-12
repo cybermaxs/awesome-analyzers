@@ -90,6 +90,7 @@ If you're using [Central Package Management](https://learn.microsoft.com/en-us/n
 * [SmartAnalyzers.ExceptionAnalyzer](https://github.com/smartanalyzers/ExceptionAnalyzer) - A set of Roslyn analyzers related to exceptions usages.
 * [DotNetAnalyzers.DocumentationAnalyzers](https://github.com/DotNetAnalyzers/DocumentationAnalyzers) - An implementation of .NET documentation rules using Roslyn analyzers and code fixes.
 * [IDisposableAnalyzers](https://github.com/DotNetAnalyzers/IDisposableAnalyzers) - Analyzers and fixes for IDisposable.
+* [SuccinctLinq.Analyzers](https://github.com/sveinungf/succinct-linq) - Analyzers that flag redundant and verbose LINQ expressions and suggest more concise equivalents.
 
 ## Deprecated Analyzers
 
