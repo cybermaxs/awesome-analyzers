@@ -32,8 +32,8 @@ If you're using [Central Package Management](https://learn.microsoft.com/en-us/n
   * [Microsoft.CodeAnalysis.BannedApiAnalyzers](https://www.nuget.org/packages/Microsoft.CodeAnalysis.BannedApiAnalyzers/) - A set of Roslyn diagnostic analyzers that help enforce banned APIs.
 * [StyleCopAnalyzers](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) - An implementation of StyleCop rules using the .NET Compiler Platform
 * [Wintellect.Analyzers](https://github.com/Wintellect/Wintellect.Analyzers) - .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes written by Wintellect
-* [sonarlint-vs](https://github.com/SonarSource/sonarlint-visualstudio) - SonarLint is a Visual Studio 2015 extension that provides on-the-fly feedback to developers on new bugs and quality issues injected into C# code.
-  * [sonar-dotnet](https://github.com/SonarSource/sonar-dotnet) - the Sonar Roslyn analyzers which are powering SonarLint. They are also published as [SonarAnalyzer.CSharp](https://www.nuget.org/packages/SonarAnalyzer.CSharp/) NuGet package.
+* [SonarQube for Visual Studio](https://github.com/SonarSource/sonarlint-visualstudio) - A Visual Studio extension that provides on-the-fly feedback to developers on new bugs and quality issues injected into C# code.
+  * [sonar-dotnet](https://github.com/SonarSource/sonar-dotnet) - the Sonar Roslyn analyzers which are powering SonarQube for IDE. They are also published as [SonarAnalyzer.CSharp](https://www.nuget.org/packages/SonarAnalyzer.CSharp/) NuGet package.
 * [Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn.
 * [ErrorProne.NET](https://github.com/SergeyTeplyakov/ErrorProne.NET) - ErrorProne.NET is a set of Roslyn-based analyzers that will help you to write correct code. The idea is similar to Google's error-prone but focusing on correctness (and, maybe, performance) of C# programs.
 * [Gu.Analyzers](https://github.com/GuOrg/Gu.Analyzers) - Roslyn analyzers and fixes.
@@ -80,7 +80,7 @@ If you're using [Central Package Management](https://learn.microsoft.com/en-us/n
 * [ClosedTypeHierarchyDiagnosticSuppressor](https://github.com/shuebner/ClosedTypeHierarchyDiagnosticSuppressor) - Roslyn-based C# diagnostic suppressor that enhances the `switch` exhaustiveness checks for the closed type hierarchy pattern aka discriminated unions.
 * [OneOfDiagnosticSuppressor](https://github.com/shuebner/OneOfDiagnosticSuppressor) - Roslyn-based C# diagnostic suppressor that enhances the `switch` exhaustiveness checks of `OneOf<...>.Value` from the [OneOf library](https://github.com/mcintyre321/OneOf) and thus enables effective use of native `switch` as an alternative to the library's own `Switch` and `Match` methods.
 * [NSubstitute.Analyzers](https://github.com/nsubstitute/NSubstitute.Analyzers) - Provides diagnostic analyzers to warn about incorrect usage of [NSubstitute](https://github.com/nsubstitute/NSubstitute) in C# or VB.
-* [System.IO.Abstractions.Analyzers](https://github.com/TestableIO/System.IO.Abstractions.Analyzers) - Analyzer for helping using package [System.IO.Abstractions](https://github.com/Testably/Testably.Abstractions).
+* [System.IO.Abstractions.Analyzers](https://github.com/TestableIO/System.IO.Abstractions.Analyzers) - Analyzer for helping using package [System.IO.Abstractions](https://github.com/TestableIO/System.IO.Abstractions).
 * [FluentAssertions.Analyzers](https://github.com/fluentassertions/fluentassertions.analyzers) - Analyzers based on the [FluentAssertions](https://github.com/fluentassertions/fluentassertions) best practices docs.
 * [SerilogAnalyzer](https://github.com/Suchiman/SerilogAnalyzer) - Roslyn-based analysis for code using the [Serilog logging library](https://github.com/serilog/serilog). Checks for common mistakes and usage problems.
 
