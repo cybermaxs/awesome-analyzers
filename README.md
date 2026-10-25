@@ -50,6 +50,7 @@ If you're using [Central Package Management](https://learn.microsoft.com/en-us/n
   * `Philips.CodeAnalysis.SecurityAnalyzers`
 * [AgodaAnalyzers](https://github.com/agoda-com/AgodaAnalyzers) - A set of opinionated Roslyn analyzers for C#.
 * [CSharp.Refactor](https://github.com/Thorium/csharp-refactor) - 120+ Roslyn analyzers and code fixes for functional, intent-revealing C#, plus a dotnet tool that applies them in bulk with build verification.
+* [HouseRules](https://github.com/Hanif6731/HouseRules) - A .NET coding standard enforced by the build: the SDK analyzers, Roslynator's wrapping rules, banned APIs and its own rules in three adoption levels, with a ratchet so existing code can adopt it.
 
 ### Security
 
